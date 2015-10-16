@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Here's to AI"
-datePublished: '2015-10-16T04:53:25.927Z'
-dateModified: '2015-10-16T04:53:05.092Z'
+datePublished: '2015-10-16T04:55:07.692Z'
+dateModified: '2015-10-16T04:54:59.739Z'
 title: First Post
 authors: []
 publisher:
