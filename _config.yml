@@ -1,6 +1,6 @@
 name: Fenwick
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.47049
 title: Fenwick
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#505738'
   brandStrength: 1
   lightness: 0.5
-  saturation: 0.5625
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose:
   - name: awareness
