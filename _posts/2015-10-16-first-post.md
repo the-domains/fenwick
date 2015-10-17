@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Here's to AI"
-datePublished: '2015-10-16T04:55:07.692Z'
-dateModified: '2015-10-16T04:54:59.739Z'
+datePublished: '2015-10-17T00:47:31.674Z'
+dateModified: '2015-10-17T00:47:26.425Z'
 title: First Post
+sourcePath: _posts/2015-10-16-first-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-16-first-post.md
-published: true
 url: first-post/index.html
 _type: Article
 
