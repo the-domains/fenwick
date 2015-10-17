@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fenwick]]></title>
+        <description><![CDATA[Fenwick]]></description>
+        <link>https://thegrid.ai/fenwick/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 17 Oct 2015 00:48:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fenwick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First Post]]></title>
+            <description><![CDATA[<article><h1>First Post</h1><p>lighthouse</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fdda8d3-7cb7-47b7-b27c-d0f31f90e02d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/fenwick/first-post/index.html</link>
+            <guid isPermaLink="false">ec3d98a9-81cb-4c50-9aeb-90d78820e7d4</guid>
+            <pubDate>Sat, 17 Oct 2015 00:47:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
