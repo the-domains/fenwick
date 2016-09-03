@@ -1,7 +1,18 @@
+layout_spectrum: 0.47049
+typography_spectrum: 0.03529969695955515
+color:
+  brandColors:
+    - '#4275b7'
+    - '#6498d4'
+    - '#fefefe'
+    - '#13181e'
+    - '#505738'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 name: Fenwick
 favicon: null
-layout_spectrum: 0.47049
-typography_spectrum: 0.5
 title: Fenwick
 cta:
   domain: null
@@ -15,18 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#4275b7'
-    - '#6498d4'
-    - '#fefefe'
-    - '#13181e'
-    - '#505738'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose:
-  - name: awareness
-    item: ec3d98a9-81cb-4c50-9aeb-90d78820e7d4
-    url: null
+purpose: []
